@@ -1,0 +1,2 @@
+-i https://download.pytorch.org/whl/cu117
+torch==1.13.1+cu117 
