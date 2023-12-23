@@ -161,5 +161,5 @@ cython_debug/
 
 # Hide private datasets
 data/wind_plant/
-data/energy_demand/
+data/electricity_demand/
 
