@@ -8,8 +8,8 @@ This project involves two forecasting problems.
 
 The objective is providing predictions for test.csv datasets which comprise only data of exogenous variables for a long horizon and do not include the time series of target variables.
 
-Tested with Python 3.9.13 environment with pip installation.
+Tested with Python 3.9.13 environment installed pip.
 
 > [!NOTE]
-> The datasets (train.csv and test.csv) of both problems are private; therefore, they haven't been uploaded.
+> The datasets train.csv and test.csv in data/electricity_demand/ data/wind_plant/ folders are private; therefore, they haven't been uploaded.
 
